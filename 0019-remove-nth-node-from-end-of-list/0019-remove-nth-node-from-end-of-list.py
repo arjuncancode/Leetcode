@@ -6,7 +6,7 @@ class Solution:
         for _ in range(n):
             head = head.next
         
-        while head:
+        while head: 
             head = head.next
             dummy = dummy.next
         
