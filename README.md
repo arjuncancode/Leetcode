@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/arjuncancode/Leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/arjuncancode/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/arjuncancode/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/arjuncancode/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/arjuncancode/Leetcode/tree/master/0018-4sum) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/arjuncancode/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/arjuncancode/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 ## Heap (Priority Queue)
 |  |
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arjuncancode/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/arjuncancode/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
